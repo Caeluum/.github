@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="./assets/caelum-logo.png" width="150" alt="Caelum logo" />
+  <img src="../a29c3842-556a-451a-953b-34a132cfde41.png" width="150" alt="Caelum logo" />
 </p>
 
 <p align="center">
-  <img src="./assets/caelum-wallpaper.png" width="100%" alt="Caelum — open-source operating systems" />
+  <img src="../020f3b18-f654-4913-ab99-d9045d6f1253.png" width="100%" alt="Caelum wallpaper" />
 </p>
-
 <h1 align="center">Caelum</h1>
 
 <p align="center">
